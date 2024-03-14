@@ -1,0 +1,14 @@
+E:\Newfolder\uefa\bin\Debug\net7.0\uefa.exe
+E:\Newfolder\uefa\bin\Debug\net7.0\uefa.deps.json
+E:\Newfolder\uefa\bin\Debug\net7.0\uefa.runtimeconfig.json
+E:\Newfolder\uefa\bin\Debug\net7.0\uefa.dll
+E:\Newfolder\uefa\bin\Debug\net7.0\uefa.pdb
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.AssemblyInfoInputs.cache
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.AssemblyInfo.cs
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.csproj.CoreCompileInputs.cache
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.dll
+E:\Newfolder\uefa\obj\Debug\net7.0\refint\uefa.dll
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.pdb
+E:\Newfolder\uefa\obj\Debug\net7.0\uefa.genruntimeconfig.cache
+E:\Newfolder\uefa\obj\Debug\net7.0\ref\uefa.dll
